@@ -1,2 +1,2 @@
 # Coffee-shop-priskalkulator
-I dette repoet finner du utgangspunktet for å lage en priskalkulator til en kafé. Bytt ut README.md med en beskrivelse av prosjektet ditt.
+Jeg har laget en coffe-shop kalkulator, der man kan bestille forskjellige typer kaffe med forskjellige priser for alle typer kaffe, med 3 forskjellige størrelser som man kan velge mellom, det blir høyere pris for jo større kaffe størresle du velger. Man kan også velge om du vil ta med kaffen eller sitte inne til en høyere pris.
